@@ -25,3 +25,8 @@
 /Users/ginalig/RiderProjects/EmailService/EmailService/obj/Debug/net6.0/EmailService.pdb
 /Users/ginalig/RiderProjects/EmailService/EmailService/obj/Debug/net6.0/EmailService.genruntimeconfig.cache
 /Users/ginalig/RiderProjects/EmailService/EmailService/obj/Debug/net6.0/ref/EmailService.dll
+/Users/ginalig/RiderProjects/EmailService/EmailService/bin/Debug/net6.0/MailKit.dll
+/Users/ginalig/RiderProjects/EmailService/EmailService/bin/Debug/net6.0/MimeKit.dll
+/Users/ginalig/RiderProjects/EmailService/EmailService/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Users/ginalig/RiderProjects/EmailService/EmailService/bin/Debug/net6.0/Dapper.dll
+/Users/ginalig/RiderProjects/EmailService/EmailService/bin/Debug/net6.0/Npgsql.dll
