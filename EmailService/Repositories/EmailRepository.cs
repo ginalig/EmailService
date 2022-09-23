@@ -28,5 +28,7 @@ public class EmailRepository : IEmailRepository
         var query = "INSERT INTO message (sender, recipient, carbon_copy_recipients, subject, text, is_successfully_sent) "+
         "VALUES (@sender, @recipient, @carbon_copy_recipients, @subject, @text, @is_successfully_sent)";
         db.Query(query, message);
+        query = "SELECT id FROM message";
+        message.id = db.Query<int>(query).LastOrDefault();
     }
 }
